@@ -7,6 +7,7 @@ The tests performed on each computer depend on its type and function. At the mom
 A test deadline is set for each computer being tested. All tests corresponding to this computer must be performed no later than the specified date. The date itself depends on the tests selected for each specific computer.
 Most of the XYZ company's test execution process is automated using internal software that selects a specific set of tests and determines the test date based on the type and function of computers.
 Rules
+
 At the moment, test suites and their execution dates for specific types of computers are selected in accordance with the following business rules.
 Tests 1, 2, and 3 should be performed on Type 1 computers.
 Tests 4 and 5 should be performed on Type 2 computers that perform the function of DNS servers.
